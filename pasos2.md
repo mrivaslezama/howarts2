@@ -21,6 +21,13 @@ production:
 
 
 
+  
+
+RAILS_MASTER_KEY
+abef1a4fe851aaade3ad723606afade6
+
+
+
 rails g controller Render
 
 
